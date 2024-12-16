@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this my git write second line
+=======
+this is my sencond line in the ruthin2
+>>>>>>> fff0e06bcfd6c44325ed0490a2043788db590e1b
